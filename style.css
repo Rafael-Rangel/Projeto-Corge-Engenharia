@@ -56,13 +56,14 @@ a:hover{
 
 @font-face {
     font-family: title;
-    src: url(../Fontes/Trap-Medium.otf);
+    src: url(./Fontes/Trap-Medium.otf);
   }
 
   @font-face {
     font-family: button;
-    src: url(../Fontes/Trap-Light.otf);
+    src: url(./Fontes/Trap-Light.otf);
   }
+
 
 #page1 h1 {
     font-family: title;
