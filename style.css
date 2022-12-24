@@ -641,13 +641,11 @@ main.cards section.card span {
 
 .sobreft
 {
-    display: inline-block;
-    text-align: center;
-    width: 1150px;
+    display: flex;
+    width: 952px;
     height: 160px;
     transform: translate3d(10px);
-    padding-left: 95px;
-    
+    margin:auto;
 }
 
 
