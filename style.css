@@ -699,10 +699,10 @@ main.cards section.card span {
 
 }
 
-@media screen and (max-width: 1222px) {
+@media screen and (max-width: 970px) {
     .sobreft {
     height: 100%;
-    width: 79%;
+    width: 30%;
     display: flex;
     text-align: center;
     flex-wrap: nowrap;
@@ -713,6 +713,10 @@ main.cards section.card span {
 
 .textftperf2{
     padding-bottom: 30px;
+}
+	
+.textftperf1{
+    padding-bottom: 50px;
 }
 
 #page4{
